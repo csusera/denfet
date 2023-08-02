@@ -27,3 +27,9 @@ All the results obtained and reported for our case study can be found in the [su
 - Reason trade-offs
 
 The naming of the files is also self-explained. For example, `define-context-w.csv` means the task for "define context" phase with Denfet; `define-context-w:o.csv` denotes the task for "define context" phase without Denfet; `define-context.csv` contains the overall usefulness rating. The tasks for the other phases can be similarly interpreted. `overall.csv` contains the statistics calculation results.
+
+The instructions for the tasks and the link to the actual questions used in our case study can be accessed [here](https://github.com/csusera/denfet/blob/main/case-study-brief.pdf).
+
+## Proof of the theorems
+
+We have also provided detailed proofs of the theorems about the relationships between single- and multi-dimensional requirement propositions, which can be found [here](https://github.com/csusera/denfet/blob/main/proof.pdf).
